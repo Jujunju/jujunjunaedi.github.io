@@ -1,0 +1,83 @@
+/* Body Dari services dan yng ada di bawahnya */
+.main-container {
+  background: linear-gradient(to left top, #000000, #121027);
+}
+
+/* Services */
+.main-container .services .row-services .web-design {
+  background: linear-gradient(to left top, #050505, #1a172e);
+}
+.main-container .services .row-services .web-design i {
+  color: #fbae3c;
+}
+
+/* Skills */
+.main-container .skills i {
+  font-size: 3.5rem;
+  transition: 400ms;
+  border-radius: 90% 90% 20px 20px;
+  cursor: pointer;
+}
+
+/* Icons Hover */
+.main-container .skills .row .html:hover {
+  box-shadow: 5px 5px 45px #e34f26;
+}
+.main-container .skills .row .css:hover {
+  box-shadow: 5px 5px 45px #1572b6;
+}
+.main-container .skills .row .bulma:hover {
+  box-shadow: 5px 5px 45px #00d1b2;
+}
+.main-container .skills .row .btsr:hover {
+  box-shadow: 5px 5px 45px #7952b3;
+}
+.main-container .skills .row .tailwind:hover {
+  box-shadow: 5px 5px 45px #06b6d4;
+}
+.main-container .skills .row .ex:hover {
+  box-shadow: 5px 5px 45px #ffffff;
+}
+.main-container .skills .row .mysql:hover {
+  box-shadow: 5px 5px 45px #4479a1;
+}
+.main-container .skills .row .mgdb:hover {
+  box-shadow: 5px 5px 45px #47a248;
+}
+.main-container .skills .row .react:hover {
+  box-shadow: 5px 5px 45px #61dafb;
+}
+.main-container .skills .row .react-n:hover {
+  box-shadow: 5px 5px 45px #61dafb;
+}
+.main-container .skills .row .gth:hover {
+  box-shadow: 5px 5px 45px #ffffff;
+}
+.main-container .skills .row .js:hover {
+  box-shadow: 5px 5px 45px #f7df1e;
+}
+.main-container .skills .row .jv:hover {
+  box-shadow: 5px 5px 45px #e76f00;
+}
+.main-container .skills .row .go:hover {
+  box-shadow: 5px 5px 45px #00add8;
+}
+.main-container .skills .row .php:hover {
+  box-shadow: 5px 5px 45px #777bb4;
+}
+.main-container .skills .row .cnv:hover {
+  box-shadow: 5px 5px 45px #00c4cc;
+}
+
+.mySwiper .swiper-slide {
+    transition: transform 0.3s ease;
+}
+
+.mySwiper .swiper-slide:hover {
+    transform: scale(1.05);
+}
+
+/* Projects */
+.main-container .projects .satu {
+  background: linear-gradient(to left bottom, #050505, #1a172e);
+}

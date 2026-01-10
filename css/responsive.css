@@ -1,0 +1,23 @@
+/* Responsive Ukuran Tablet/Dekstop */
+@media (min-width: 768px) {
+  .header .banner .container nav .list-item {
+    transform: translateY(0);
+    background: linear-gradient(to left, #00000000, #12102700);
+    flex-direction: row;
+    height: 0;
+    position: relative;
+    align-items: center;
+  }
+  .header .banner .container nav .list-item .close {
+    display: none;
+  }
+  .header .banner .container nav .list-item .medsos {
+    display: none;
+  }
+  .header .banner .container nav .menu {
+    display: none;
+  }
+  .header .banner .container .jumbotron .container .row .img-col img {
+    width: 500px;
+  }
+}
