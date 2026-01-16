@@ -42,7 +42,7 @@
   padding: 30px;
   height: 100dvh;
   /* background: linear-gradient(to left, #000000, #121027); */
-  background-color: black;
+  background-color: #000000;
   transition: 0.5s;
 }
 
@@ -63,12 +63,13 @@
 
 /* Judul */
 .header .banner .container nav .title h3 {
-  color: #fbae3c;
   font-family: 'Sekuya', system-ui;
   font-weight: 400;
   margin-top: 10px;
 }
-
+.header .banner .container nav .title span {
+  color: #fbae3c;
+}
 /* Icons Close */
 .header .banner .container nav .list-item .close {
   cursor: pointer;
