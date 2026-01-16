@@ -41,8 +41,7 @@
   z-index: 30;
   padding: 30px;
   height: 100dvh;
-  /* background: linear-gradient(to left, #000000, #121027); */
-  background-color: #000000;
+  background-color: #121027;
   transition: 0.5s;
 }
 

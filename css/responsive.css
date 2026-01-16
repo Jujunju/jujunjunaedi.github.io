@@ -1,13 +1,14 @@
 @media (max-width: 575.98px) { 
   .header .banner .container .jumbotron .container .row .img-col img {
     left: -40px;
-    top: 30px;
+    top: -20px;
   }
   .header .banner .container .jumbotron .container .row .img-col .blob {
-    top: -300px;
+    top: -365px;
   }
   .header .banner .container .jumbotron .container .row .judul-banner .deskripsi {
     margin-top: 20px;
+    margin: 5px;
   }
 }
 
