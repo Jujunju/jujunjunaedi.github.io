@@ -42,6 +42,7 @@
   padding: 30px;
   height: 100dvh;
   /* background: linear-gradient(to left, #000000, #121027); */
+  background-color: black;
   transition: 0.5s;
 }
 
